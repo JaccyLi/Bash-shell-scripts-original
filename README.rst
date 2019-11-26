@@ -2,15 +2,15 @@ Bash-shell-scripts-original
 ===========================
 
 
-./Platform_scrpts
+./Platform_scrpts::
 
     Some scripts related to install something or to automation.
 
 
-./Complex
+./Complex::
 
     Some exercise scripts.
 
-./MISC
+./MISC::
 
     Some pies.
